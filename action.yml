@@ -1,6 +1,0 @@
-# action.yml
-name: 'Build Docker as tar'
-description: 'Build Docker as tar'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
